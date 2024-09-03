@@ -24,7 +24,7 @@ CleanBoot is a Python script that automates the installation of essential softwa
 To download and run CleanBoot, use the following one-line command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/cleanboot/main/cleanboot.py | sudo python3 -
+curl -sSL https://raw.githubusercontent.com/CaptainASIC/OSGO/main/cleanboot.py | sudo python3 -
 ```
 
 This command downloads the script and immediately executes it with sudo privileges. Make sure to review the script before running it on your system.
